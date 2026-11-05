@@ -9,7 +9,7 @@ categories, and shows where your money goes.
 ## Status
 
 - [x] Message parser
-- [ ] Categorizer (food, transport, airtime, ...)
+- [x ] Categorizer (food, transport, airtime, ...)
 - [ ] Dashboard with charts
 - [ ] Deployed demo
 
